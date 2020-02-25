@@ -16,7 +16,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-count-up
+ember install @abrahamspaa/ember-count-up
 ```
 
 

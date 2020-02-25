@@ -1,1 +1,1 @@
-export { default } from 'ember-count-up/components/count-up/component';
+export { default } from '@abrahamspaa/ember-count-up/components/count-up/component';

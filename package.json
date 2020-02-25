@@ -1,5 +1,5 @@
 {
-  "name": "ember-count-up",
+  "name": "@abrahamspaa/ember-count-up",
   "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
