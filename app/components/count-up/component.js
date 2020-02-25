@@ -1,0 +1,1 @@
+export { default } from 'ember-count-up/components/count-up/component';

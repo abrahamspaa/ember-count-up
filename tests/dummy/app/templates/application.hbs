@@ -1,3 +1,7 @@
-<h2 id="title">Welcome to Ember</h2>
+<h2>Basic</h2>
+{{count-up start=1 end=4567}}
+
+<h2>Error</h2>
+{{count-up start=1 end="abc" onError=(action "errorLog")}}
 
 {{outlet}}

@@ -1,7 +1,7 @@
 ember-count-up
 ==============================================================================
 
-[Short description of the addon.]
+Extention of [CountUp.JS](https://github.com/inorganik/countUp.js/) to Ember.
 
 
 Compatibility
@@ -23,7 +23,9 @@ ember install ember-count-up
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+```
+{{count-up start=1 end=4567}}
+```
 
 
 Contributing
