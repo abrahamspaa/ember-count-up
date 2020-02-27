@@ -54,15 +54,5 @@ export default Component.extend({
     if(onStart) {
       onStart(start);
     }
-  },
-
-  willDestroyElement() {
-    this._super(...arguments);
-
-    get(this, 'error').destroy();
-    get(this, 'start').destroy();
-    get(this, 'reset').destroy();
-    get(this, 'update').destroy();
-    get(this, 'pauseResume').destroy();
   }
 });
